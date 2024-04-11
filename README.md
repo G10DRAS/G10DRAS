@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm G10DRAS</h1>
-<h3 align="center">A tech enthusiast, I'm Interested in Data Science, Machine Learning and Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=G10DRAS&label=Profile%20views&color=0e75b6&style=flat" alt="G10DRAS" /> </p>
 
